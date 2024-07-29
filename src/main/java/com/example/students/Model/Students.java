@@ -11,12 +11,12 @@ import lombok.Data;
 public class Students {
 
 
-    String name ;
-    String id ;
-    int age;
-    String college;
-    String study ;
-    String degree ;
+   private String name ;
+   private String id ;
+   private int age;
+   private String college;
+   private String study ;
+   private String degree ;
 
 
 
