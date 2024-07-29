@@ -11,7 +11,11 @@ import lombok.Data;
 public class Project {
 
 
-       String ID , title , description , status, companyName;
+       private String ID ;
+       private String title ;
+       private String description ;
+       private String status;
+       private String companyName;
 
 
 
